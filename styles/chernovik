@@ -1,0 +1,19 @@
+/* Вот что сам Брайан Ино рассказывает о создании Oblique Strategies: */
+
+position: absolute;
+width: 1296px;
+height: 35px;
+left: 72px;
+top: 2244px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+letter-spacing: 0.3em;
+
+color: #312A4E;
+
+
+
